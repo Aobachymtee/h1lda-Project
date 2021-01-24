@@ -75,8 +75,8 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Lummit', 'Neso', 'loljuxd', 'Vez', 'mannin', '=', 'obnoxious.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
-  app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
+  app.titleChanger(['We are Vietnamese', 'Cheat for fun', 'We hate Chinese', '(:', ':)', '=', 'h1lda.ml', 'Pay to get fair']);
+  app.iconChanger(['assets/icons/aoba/aoba 1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 
 if ($.cookie('videoTime')) {
